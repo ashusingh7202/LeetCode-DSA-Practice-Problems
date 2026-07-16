@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0260-single-number-iii) |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
