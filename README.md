@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0118-pascals-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
