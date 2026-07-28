@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 ## Counting
