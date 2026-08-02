@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
