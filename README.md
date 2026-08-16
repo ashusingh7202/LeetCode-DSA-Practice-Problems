@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0875-koko-eating-bananas) |
