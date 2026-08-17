@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
