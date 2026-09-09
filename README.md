@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
+| [1672-richest-customer-wealth](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
