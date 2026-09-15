@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
