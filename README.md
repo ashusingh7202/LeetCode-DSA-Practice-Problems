@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
