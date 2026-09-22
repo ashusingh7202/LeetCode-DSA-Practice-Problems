@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
