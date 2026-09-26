@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
