@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1859-sorting-the-sentence](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1859-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
