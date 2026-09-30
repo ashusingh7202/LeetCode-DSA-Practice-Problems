@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 | [1108-defanging-an-ip-address](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
