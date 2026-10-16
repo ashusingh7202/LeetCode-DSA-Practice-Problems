@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
