@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
