@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
