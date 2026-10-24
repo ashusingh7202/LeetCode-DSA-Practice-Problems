@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1859-sorting-the-sentence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
