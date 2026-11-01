@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
