@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/1859-sorting-the-sentence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ashusingh7202/LeetCode-DSA-Practice-Problems/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
